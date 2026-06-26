@@ -16,6 +16,11 @@ __pycache__/
 # Jupyter notebooks checkpoints
 .ipynb_checkpoints/
 
+# Trained model files (too large for GitHub)
+saved_models/
+*.keras
+*.h5
+
 # OS files
 .DS_Store
 Thumbs.db
