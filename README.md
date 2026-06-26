@@ -278,11 +278,3 @@ python plot_history.py
 - Add real-time disease prediction from camera images.
 
 ---
-
-## 👨‍💻 Author
-
-Project developed for the **Rice Leaf Disease Prediction** problem statement using **TensorFlow** and **Convolutional Neural Networks (CNN)**.
-
-```
-
----
